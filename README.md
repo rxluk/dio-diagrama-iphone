@@ -10,4 +10,4 @@ A modelagem e diagramação foi baseada no conteudo do link abaixo do lançament
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz.
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina.
 - Imagens: tirarFoto, apagarFoto, exibirFoto.
-()[https://github.com/rxluk/dio-diagrama-iphone/blob/master/diagrama-iphone/img/diagram.png]
+![Diagrama](https://github.com/rxluk/dio-diagrama-iphone/blob/master/diagrama-iphone/img/diagram.png)
