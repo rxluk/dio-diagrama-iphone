@@ -3,7 +3,7 @@ Modelagem e diagramação da representação em UML e Código no que se refere a
 
 A modelagem e diagramação foi baseada no conteudo do link abaixo do lançamento do IPhone em 2007.
 
-(Lançamento iPhone 2007)[https://www.youtube.com/watch?v=9ou608QQRq8]
+![Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 - Minutos relevantes do 00:15 até 00:55.
 
 - Repodutor Musicial: tocar, pausar, selecionarMusica.
